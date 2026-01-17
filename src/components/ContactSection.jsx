@@ -45,7 +45,7 @@ const ContactSection = () => {
                                 <div>
                                     <h4 className='font-medium'>Email</h4>
                                     <a href="mailto:hello@gmail.com" className='text-muted-foreground hover:text-primary transition-colors'>
-                                        hello@gmail.com
+                                        muhamadrufaidkv@gmail.com
                                     </a>
                                 </div>
 
@@ -57,7 +57,7 @@ const ContactSection = () => {
                                 <div>
                                     <h4 className='font-medium'>Phone</h4>
                                     <a href="tel:+12133444" className='text-muted-foreground hover:text-primary transition-colors'>
-                                        +91 9544185479
+                                        +971 586-400-702
                                     </a>
                                 </div>
 
@@ -69,15 +69,15 @@ const ContactSection = () => {
                                 <div>
                                     <h4 className='font-medium'>Location</h4>
                                     <a href="mailto:hello@gmail.com" className='text-muted-foreground hover:text-primary transition-colors'>
-                                        Ernakulam, Kerala, India
+                                        Al Nahda 1, Dubai - UAE
                                     </a>
                                 </div>
                             </div>
                         </div>
                         <div className='pt-8'>
                             <h4 className='font-medium mb-4'>Connect With Me</h4>
-                            <div className='flex sapce-x-4 justify-center'>
-                                <a href="#" target='_blank'>
+                            <div className='flex sapce-x-6 justify-center'>
+                                <a href="https://www.linkedin.com/in/muhamad-rufaid" target='_blank'>
                                     <Linkedin />
                                 </a>
                                 <a href="#" target='_blank'>

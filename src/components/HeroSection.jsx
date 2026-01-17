@@ -14,10 +14,10 @@ const HeroSection = () => {
                         <span className='text-gradient ml-2 opacity-0 animate-fade-in-delay-2'> Rufaid</span>
                     </h1>
                     <p className='text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
-                        A skilled Full Stack Developer with a strong foundation in web design,
-                        programming, and poster design. With expertise in creating both front-end
-                        and back-end solutions, currently focused on building sophisticated
-                        web applications like billing systems using React, Tailwind CSS, and Django.
+                        A proficient Full Stack Web Developer with a solid foundation in web design, software development, and graphic
+                        design. Leveraging expertise in both front-end and back-end technologies, I specialize in building advanced
+                        web applications, such as billing systems, using React, Tailwind CSS, and Django, with a focus on delivering
+                        scalable, high-performance solutions.
                     </p>
 
                     <div className='pt-4 opacity-0 animate-fade-in-delay-4'>

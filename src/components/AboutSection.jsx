@@ -13,18 +13,17 @@ const AboutSection = () => {
             <h3 className='text-2xl font-semibold'>Passionate Web Developer & Marketing</h3>
 
             <p className='text-muted-foreground'>
-              As a fresher in the tech industry, I have quickly gained hands-on experience working with
-              modern development tools and frameworks. I have worked with React for building dynamic,
-              responsive front-end interfaces, and Django for creating robust back-end solutions. With a
-              focus on user experience and performance optimization, I have built web applications that
-              are both functional and visually appealing.
+              As a Full Stack Developer, I have gained hands-on experience with modern development tools
+              and frameworks, including Python, Django, React, and MySQL. I have worked on building dynamic,
+              responsive front-end interfaces with React and robust back-end solutions with Django, focusing
+              on creating functional and visually appealing web applications while optimizing performance and
+              user experience.
             </p>
             <p className='text-muted-foreground'>
-              As a fresher in the tech industry, I have quickly gained hands-on experience working with
-              modern development tools and frameworks. I have worked with React for building dynamic,
-              responsive front-end interfaces, and Django for creating robust back-end solutions. With a
-              focus on user experience and performance optimization, I have built web applications that
-              are both functional and visually appealing.
+              In addition to my development skills, I have a strong passion for design, creating intuitive user
+              interfaces and engaging user experiences. Through my projects, I have honed my ability to work efficiently
+              in both front-end and back-end development, ensuring seamless integration between the two for fully
+              functional and responsive applications.
             </p>
 
             <div className='flex flex-col sm:flex-row gap-4 pt-4 justify-center'>
@@ -32,7 +31,7 @@ const AboutSection = () => {
                 Get In Touch
               </a>
 
-              <a href="" className='px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300'>
+              <a href="#" className='px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300'>
                 Download CV
               </a>
             </div>
