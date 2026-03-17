@@ -14,15 +14,15 @@ const HeroSection = () => {
                         <span className='text-gradient ml-2 opacity-0 animate-fade-in-delay-2'> Rufaid</span>
                     </h1>
                     <p className='text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
-                        A proficient Full Stack Web Developer with a solid foundation in web design, software development, and graphic
-                        design. Leveraging expertise in both front-end and back-end technologies, I specialize in building advanced
-                        web applications, such as billing systems, using React, Tailwind CSS, and Django, with a focus on delivering
-                        scalable, high-performance solutions.
+                        I’m a skilled Web Developer with a strong background in web development, graphic design, and Content 
+                        Management Systems (CMS). I specialize in creating advanced web applications using Django, React,
+                         and MySQL, as well as working with WordPress for custom web solutions. I leverage productivity tools
+                          like MS Excel, Word, and Outlook to scale IT operations and efficiently manage day-to-day tasks.
                     </p>
 
                     <div className='pt-4 opacity-0 animate-fade-in-delay-4'>
                         <a href="#projects" className='cosmic-button'>
-                            View My Work
+                            View My Works
                         </a>
                     </div>
                 </div>
